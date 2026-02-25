@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D2",SK6812MINI-E_fixed,2,SK6812MINI-E,
+"SW1, SW2",SW_PUSH_6mm,2,SW_Push,
+U1,XIAO-ESP32C3-DIP,1,XIAO-ESP32-C3-DIP,
+U2,DIP-16_600_ELL,1,~,
