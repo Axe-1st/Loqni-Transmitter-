@@ -562,7 +562,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Loqni module.step",
       "svg": "",
       "vrml": ""
     },
