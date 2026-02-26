@@ -2,7 +2,7 @@
 An Attachment for your phone or laptop to communicate outdoors! You could use this for camping. Powered by an Xiao Esp32c3 and Ra-02_module!
 
 
-##BOM
+<h2>Bill of Materials</h2>
 
 -some in php 
 
@@ -10,7 +10,7 @@ An Attachment for your phone or laptop to communicate outdoors! You could use th
 
 -CONVERSION RATE: 1 United States Dollar equals 57.57 Philippine peso
 
--Shopee
+<h2>Shopee</h2>
 
 
 -2 pcs  3.7 bat = ₱204
@@ -41,6 +41,7 @@ An Attachment for your phone or laptop to communicate outdoors! You could use th
 
 -https://shopee.ph/E-MART-Mini-Rocker-Switch-2-Pins-%E2%80%93-Buzzer-Type-NC-220V-for-DIY-Electronics-Home-Appliances-i.962715410.29339437699?extraParams=%7B%22display_model_id%22%3A285949511662%2C%22model_selection_logic%22%3A3%7D&sp_atk=4f700cde-b251-4fc6-a6c1-8149ade9b412&xptdk=4f700cde-b251-4fc6-a6c1-8149ade9b412
 
+<h2>Shopee info</h2>
 
 -GRANT:₱3741.79/$65
 
@@ -56,17 +57,13 @@ An Attachment for your phone or laptop to communicate outdoors! You could use th
 
 *Shipping fee changes/fluxuates but the shipping above sometimes its free*
 
--JLC PCB
-
+<h2>JLC PCB</h2>
 -5 pcb
-
 -$3.50 or 201.09 php
-
 -remaining:₱1462 /$25.40
 
 
 -Printing legion (around 10 dollars)
-
 -remaining ₱886.34/$15.40 (will give the remaining money back)
 
 -Not included:
