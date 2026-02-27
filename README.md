@@ -12,6 +12,7 @@ An Attachment for your phone or laptop to communicate outdoors! You could use th
 
 <h2>Shopee</h2>
 
+-All rates are multiplied by 2 since this project requires 2 modules
 
 -2 pcs  3.7 bat = ₱204
 
