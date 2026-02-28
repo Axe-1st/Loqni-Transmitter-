@@ -5,6 +5,18 @@ This Project requires 2 modules. It works by opening a webportal which you use t
 
 <h2>OVERVIEW</h2>
 <img src="Main/img/Screenshot From 2026-02-27 17-04-59.png">
+-no ra-02 module stl online
+
+> It has:
++ 3.7 bat
++ momentary button
++ xiao esp 32c3
++ Ra-02 module
++ sma pigtail
++ Antena 433mhz
++ Power Switch
++ Pcb
++ Case
 
 <h3>PCB</h3>
 
