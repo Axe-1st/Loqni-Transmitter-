@@ -1,24 +1,31 @@
 # Loqni-Transmitter-
 An Attachment for your phone or laptop to communicate outdoors! You could use this for camping. Powered by an Xiao Esp32c3 and Ra-02_module!
-This Project requires 2 modules.
+This Project requires 2 modules. It works by opening a webportal which you use to talk/messsage to the eps32c3 then it will direct the message in a spicific channel by ussing the ra -02 module
 
 
 <h2>OVERVIEW</h2>
-//img here
+<img src="Main/img/Screenshot From 2026-02-27 17-04-59.png">
 
 <h3>PCB</h3>
 
 -1st version
 <img src="Main/img/1st version pcb.png">
+<img src="Main/img/1st version.png">
 
 -2nd version
-//img here
+<img src="Main/img/newpcb.png">
+<img src="Main/img/Screenshot From 2026-02-28 08-09-33.png">
+<img src="Main/img/Screenshot From 2026-02-28 08-09-43.png">
 
 <h3>schematic</h3>
 //img here
 
 <h3>Case</h3>
 - 4 part and multiplied by 2! 
+<img src="Main/img/Screenshot From 2026-02-27 17-00-32.png">
+<img src="Main/img/Screenshot From 2026-02-27 17-00-52.png">
+<img src="Main/img/Screenshot From 2026-02-27 17-01-17.png">
+<img src="Main/img/Screenshot From 2026-02-27 17-03-59.png">
 
 <h2>Bill of Materials</h2>
 
