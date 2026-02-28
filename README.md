@@ -1,6 +1,24 @@
 # Loqni-Transmitter-
 An Attachment for your phone or laptop to communicate outdoors! You could use this for camping. Powered by an Xiao Esp32c3 and Ra-02_module!
+This Project requires 2 modules.
 
+
+<h2>OVERVIEW</h2>
+//img here
+
+<h3>PCB</h3>
+
+-1st version
+//img here
+
+-2nd version
+//img here
+
+<h3>schematic</h3>
+//img here
+
+<h3>Case</h3>
+- 4 part and multiplied by 2! 
 
 <h2>Bill of Materials</h2>
 
